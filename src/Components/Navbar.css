@@ -1,0 +1,12 @@
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+    font-size:large;
+}
+
+.left-nav, .right-nav{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
